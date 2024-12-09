@@ -11,6 +11,16 @@
 
     <ItemGroup>
       <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+      <PackageReference Include="MediatR" Version="12.4.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Features\LeaveAllocations\Handlers\Commands\" />
+      <Folder Include="Features\LeaveAllocations\Requests\Commands\" />
+      <Folder Include="Features\LeaveRequests\Handlers\Commands\" />
+      <Folder Include="Features\LeaveRequests\Handlers\Queries\" />
+      <Folder Include="Features\LeaveRequests\Requests\Commands\" />
+      <Folder Include="Features\LeaveRequests\Requests\Queries\" />
     </ItemGroup>
 
 </Project>
