@@ -1,4 +1,4 @@
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
 using HR_Management.Application.Features.LeaveRequests.Requests.Commands;
@@ -8,8 +8,10 @@ using MediatR;
 
 namespace HR_Management.Application.Features.LeaveRequests.Handlers.Commands
 {
-    public class CreateLeaveRequestCommandHandler : IRequestHandler<CreateLeaveRequestCommand , int>
+    public class CreateLeaveRequestCommandHandler : IRequestHandler<CreateLeaveRequestCommand, int>
     {
+        #region ctor
+
         private readonly ILeaveRequestRepository _leaveRequestRepository;
         private readonly IMapper _mapper;
 
@@ -19,11 +21,12 @@ namespace HR_Management.Application.Features.LeaveRequests.Handlers.Commands
             _mapper = mapper;
         }
 
+        #endregion
 
         public async Task<int> Handle(CreateLeaveRequestCommand request, CancellationToken cancellationToken)
         {
             var leaveRequest = _mapper.Map<LeaveRequest>(request.LeaveRequestDto);
-            leaveRequest =await _leaveRequestRepository.Add(leaveRequest);
+            leaveRequest = await _leaveRequestRepository.Add(leaveRequest);
             return leaveRequest.Id;
         }
     }

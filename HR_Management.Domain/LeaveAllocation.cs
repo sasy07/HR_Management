@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using HR_Management.Domain.Common;
 
 namespace HR_Management.Domain
@@ -8,6 +8,6 @@ namespace HR_Management.Domain
         public int NumberOfDays { get; set; }
         public LeaveType LeaveType { get; set; }
         public int LeaveTypeId { get; set; }
-        public int Period { get; set; }
+        public int Priod { get; set; }
     }
 }

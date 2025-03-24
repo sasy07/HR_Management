@@ -1,4 +1,4 @@
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
 using HR_Management.Application.Features.LeaveTypes.Requests.Commands;
@@ -9,6 +9,9 @@ namespace HR_Management.Application.Features.LeaveTypes.Handlers.Commands
 {
     public class UpdateLeaveTypeCommandHandler : IRequestHandler<UpdateLeaveTypeCommand, Unit>
     {
+
+        #region ctor
+
         private readonly ILeaveTypeRepository _leaveTypeRepository;
         private readonly IMapper _mapper;
 
@@ -17,6 +20,9 @@ namespace HR_Management.Application.Features.LeaveTypes.Handlers.Commands
             _leaveTypeRepository = leaveTypeRepository;
             _mapper = mapper;
         }
+
+        #endregion
+
         public async Task<Unit> Handle(UpdateLeaveTypeCommand request, CancellationToken cancellationToken)
         {
             var leaveType = await _leaveTypeRepository.Get(request.LeaveTypeDto.Id);

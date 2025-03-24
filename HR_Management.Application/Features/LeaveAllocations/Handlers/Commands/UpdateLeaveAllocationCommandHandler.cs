@@ -1,4 +1,4 @@
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
 using HR_Management.Application.Features.LeaveAllocations.Requests.Commands;
@@ -9,6 +9,8 @@ namespace HR_Management.Application.Features.LeaveAllocations.Handlers.Commands
 {
     public class UpdateLeaveAllocationCommandHandler : IRequestHandler<UpdateLeaveAllocationCommand, Unit>
     {
+        #region ctor
+
         private readonly ILeaveAllocationRepository _leaveAllocationRepository;
         private readonly IMapper _mapper;
 
@@ -17,6 +19,8 @@ namespace HR_Management.Application.Features.LeaveAllocations.Handlers.Commands
             _leaveAllocationRepository = leaveAllocationRepository;
             _mapper = mapper;
         }
+
+        #endregion
 
         public async Task<Unit> Handle(UpdateLeaveAllocationCommand request, CancellationToken cancellationToken)
         {

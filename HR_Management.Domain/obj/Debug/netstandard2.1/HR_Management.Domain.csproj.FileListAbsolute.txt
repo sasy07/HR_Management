@@ -1,0 +1,10 @@
+D:\Workspace\HR_Management\HR_Management.Domain\bin\Debug\netstandard2.1\HR_Management.Domain.deps.json
+D:\Workspace\HR_Management\HR_Management.Domain\bin\Debug\netstandard2.1\HR_Management.Domain.dll
+D:\Workspace\HR_Management\HR_Management.Domain\bin\Debug\netstandard2.1\HR_Management.Domain.pdb
+D:\Workspace\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.AssemblyInfoInputs.cache
+D:\Workspace\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.AssemblyInfo.cs
+D:\Workspace\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.sourcelink.json
+D:\Workspace\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.dll
+D:\Workspace\HR_Management\HR_Management.Domain\obj\Debug\netstandard2.1\HR_Management.Domain.pdb

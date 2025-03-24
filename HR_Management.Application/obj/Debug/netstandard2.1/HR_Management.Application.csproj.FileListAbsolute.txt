@@ -1,0 +1,14 @@
+D:\Workspace\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Application.deps.json
+D:\Workspace\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Application.dll
+D:\Workspace\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Application.pdb
+D:\Workspace\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Domain.dll
+D:\Workspace\HR_Management\HR_Management.Application\bin\Debug\netstandard2.1\HR_Management.Domain.pdb
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.csproj.AssemblyReference.cache
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.AssemblyInfoInputs.cache
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.AssemblyInfo.cs
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.csproj.CoreCompileInputs.cache
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.sourcelink.json
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Manag.DF611B53.Up2Date
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.dll
+D:\Workspace\HR_Management\HR_Management.Application\obj\Debug\netstandard2.1\HR_Management.Application.pdb

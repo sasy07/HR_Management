@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\HR_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|d:\\workspace\\hr_management\\hr_management.application\\dtos\\leaverequest\\changeleaverequestapprovealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|solutionrelative:hr_management.application\\dtos\\leaverequest\\changeleaverequestapprovealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|d:\\workspace\\hr_management\\hr_management.application\\features\\leaveallocations\\handlers\\commands\\updateleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaveallocations\\handlers\\commands\\updateleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|d:\\workspace\\hr_management\\hr_management.application\\features\\leaverequests\\handlers\\commands\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaverequests\\handlers\\commands\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|d:\\workspace\\hr_management\\hr_management.application\\features\\leavetypes\\handlers\\commands\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66973D5A-EB65-4A89-88B7-4A872898F449}|HR_Management.Application\\HR_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leavetypes\\handlers\\commands\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeLeaveRequestApprovealDto.cs",
+              "DocumentMoniker": "D:\\Workspace\\HR_Management\\HR_Management.Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovealDto.cs",
+              "RelativeDocumentMoniker": "HR_Management.Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovealDto.cs",
+              "ToolTip": "D:\\Workspace\\HR_Management\\HR_Management.Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovealDto.cs",
+              "RelativeToolTip": "HR_Management.Application\\DTOs\\LeaveRequest\\ChangeLeaveRequestApprovealDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:19:52.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateLeaveAllocationCommandHandler.cs",
+              "DocumentMoniker": "D:\\Workspace\\HR_Management\\HR_Management.Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
+              "RelativeDocumentMoniker": "HR_Management.Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
+              "ToolTip": "D:\\Workspace\\HR_Management\\HR_Management.Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
+              "RelativeToolTip": "HR_Management.Application\\Features\\LeaveAllocations\\Handlers\\Commands\\UpdateLeaveAllocationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:16:26.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateLeaveRequestCommandHandler.cs",
+              "DocumentMoniker": "D:\\Workspace\\HR_Management\\HR_Management.Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "HR_Management.Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "ToolTip": "D:\\Workspace\\HR_Management\\HR_Management.Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "RelativeToolTip": "HR_Management.Application\\Features\\LeaveRequests\\Handlers\\Commands\\UpdateLeaveRequestCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:14:05.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "D:\\Workspace\\HR_Management\\HR_Management.Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HR_Management.Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpdateLeaveTypeCommandHandler.cs",
+              "ToolTip": "D:\\Workspace\\HR_Management\\HR_Management.Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpdateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HR_Management.Application\\Features\\LeaveTypes\\Handlers\\Commands\\UpdateLeaveTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:10:57.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

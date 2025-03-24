@@ -1,4 +1,4 @@
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
 using HR_Management.Application.Features.LeaveTypes.Requests.Commands;
@@ -8,8 +8,10 @@ using MediatR;
 
 namespace HR_Management.Application.Features.LeaveTypes.Handlers.Commands
 {
-    public class CreateLeaveTypeCommandHandler:IRequestHandler<CreateLeaveTypeCommand , int>
+    public class CreateLeaveTypeCommandHandler : IRequestHandler<CreateLeaveTypeCommand, int>
     {
+        #region ctor
+
         private readonly ILeaveTypeRepository _leaveTypeRepository;
         private readonly IMapper _mapper;
 
@@ -18,6 +20,8 @@ namespace HR_Management.Application.Features.LeaveTypes.Handlers.Commands
             _leaveTypeRepository = leaveTypeRepository;
             _mapper = mapper;
         }
+
+        #endregion
 
         public async Task<int> Handle(CreateLeaveTypeCommand request, CancellationToken cancellationToken)
         {
